@@ -41,7 +41,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   font-size: 24px;
   font-style: normal;
-  color: white;
+  color: #613700;
 }
 
 body {
@@ -49,6 +49,6 @@ body {
   font-optical-sizing: auto;
   font-variation-settings:
   "wdth" 100;
-  background-color: #9D9C62;
-  color: #613700;
+  background-color: #A8C686;
+  color: black;
 }
