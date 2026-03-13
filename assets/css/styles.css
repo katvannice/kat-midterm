@@ -53,3 +53,7 @@ body {
   background-color: #A8C686;
   color: black;
 }
+
+.volunteer-heading {
+  margin-top: 180px; /* adjust this value until it lines up */
+}
